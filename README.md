@@ -171,7 +171,7 @@ Some of the APIs used in the project:
 
 **Radha Charpe**
 
-GitHub: https://github.com/https://github.com/radha-charpe/SAMSTRACK.git
+GitHub: https://github.com/radha-charpe/SAMSTRACK.git
 
 ---
 
